@@ -1,2 +1,2 @@
 # Smart-Energy-Meter
-An ESP32-based IoT Smart Energy Meter for real-time energy monitoring using ACS712, LCD, and Blynk.
+Smart Energy Meter is an intelligent IoT solution that enables real-time monitoring of electrical energy consumption. Powered by the ESP32 microcontroller, the system measures current, calculates power and energy usage, displays readings on an LCD, and transmits data to the Blynk IoT platform for remote access. The project aims to promote energy efficiency by providing accurate, continuous monitoring and easy visualization of electricity usage, making it suitable for smart homes, educational demonstrations, and IoT-based automation projects.
